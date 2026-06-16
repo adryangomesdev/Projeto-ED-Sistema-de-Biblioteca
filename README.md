@@ -1,4 +1,4 @@
-# Projeto de Estrutura de Dados - Sistema de Biblioteca 
+Projeto de Estrutura de Dados - Sistema de Biblioteca 
 ---
 Um projeto dedicado a disciplina de Estrutura de Dados do curso de Bacharelado em Ciência da Computação na UFAL, como método avaliativo da AB2 e aprendizado.
 
