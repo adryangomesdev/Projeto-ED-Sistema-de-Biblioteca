@@ -4,7 +4,7 @@ Um projeto dedicado a disciplina de Estrutura de Dados do curso de Bacharelado e
 
 Primeiro de todos os markdown do projeto, apenas testanto
 
-#Membros da equipe
+Membros da equipe
 ---
 Adryan Victor - 2025027518 Artur Barbosa - 2025027151 Elias Sales - 2025027204 Saulo Firmo - 2025027320
 
